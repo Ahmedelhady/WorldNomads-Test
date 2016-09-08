@@ -199,6 +199,7 @@ SR.Series.prototype.isMultiplyByFive = function (x) { return (x % 5) == 0; }
 //Generate Fibonacci series
 SR.Series.prototype.generateFibonacciSeries = function (x) {
     var self = this;
+    self.allFiboResultString = [];
     self.allFiboResultString.push(0);
     self.allFiboResultString.push(1);
     for (var i = 0; i < x; i++) {
