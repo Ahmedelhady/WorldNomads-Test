@@ -1,6 +1,6 @@
-﻿/// <reference path="C:\Users\z3504028\Source\Repos\WorldNomads-Test\NumericSequenceCalculator_Web_Interface\Scripts/jquery-1.10.2.js" />
-/// <reference path="C:\Users\z3504028\Source\Repos\WorldNomads-Test\NumericSequenceCalculator_Web_Interface\Scripts/Default/component.js" />
-/// <reference path="C:\Users\z3504028\Source\Repos\WorldNomads-Test\NumericSequenceCalculator_Web_Interface\Scripts/Default/series.js" />
+﻿/// <reference path="..\Scripts/jquery-1.10.2.js" />
+/// <reference path="..\Scripts/Default/component.js" />
+/// <reference path="..\Scripts/Default/series.js" />
 
 ///Test help functions
 describe("isEven Function test", function () {
