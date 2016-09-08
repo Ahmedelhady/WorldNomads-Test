@@ -15,13 +15,13 @@ module.exports = function(config) {
 
     // list of files / patterns to load in the browser
     files: [    
-      'TestScripts/*.js'
+      'Scripts/*.min.js',
+      'Scripts/jquery-1.10.2'
     ],
 
 
     // list of files to exclude
-    exclude: [
-       'Scripts/*.min.js'      
+    exclude: [    
     ],
 
 

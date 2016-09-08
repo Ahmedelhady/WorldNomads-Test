@@ -4,7 +4,6 @@
 
 ///Test Generated series
 //Test Fibonacci series
-'use strict';
 describe("generateFibonacciSeries Function test", function () {
     //variable initilization
     var endvariable1 = 145;
